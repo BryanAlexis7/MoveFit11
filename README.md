@@ -56,7 +56,7 @@ Para ejecutar MoveFit en tu entorno de desarrollo, sigue los pasos a continuaci�
 
 ## Repositorio del Proyecto
 Puedes acceder al código fuente y la documentación en el siguiente enlace:
-- [GitHub - MoveFit](https://github.com/tu_usuario/movefit)
+- [GitHub - MoveFit](https://github.com/BryanAlexis7/MoveFit11.git)
 
 ---
 
