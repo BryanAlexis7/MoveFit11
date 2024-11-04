@@ -59,5 +59,3 @@ Puedes acceder al código fuente y la documentación en el siguiente enlace:
 - [GitHub - MoveFit](https://github.com/BryanAlexis7/MoveFit11.git)
 
 ---
-
-Este README ofrece una visión clara y estructurada del proyecto MoveFit. ¡Solo asegúrate de reemplazar `https://github.com/tu_usuario/movefit` con la URL real de tu repositorio!
