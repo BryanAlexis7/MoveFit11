@@ -30,7 +30,7 @@ Para ejecutar MoveFit en tu entorno de desarrollo, sigue los pasos a continuaci√
 1. **Clona el repositorio**:
     - Abre una terminal y clona el proyecto desde GitHub:
       ```bash
-      git clone https://github.com/tu_usuario/movefit.git
+      git clone https://github.com/BryanAlexis7/MoveFit11.git
       ```
     - Alternativamente, puedes descargar el archivo `.zip` del proyecto desde GitHub y descomprimirlo.
 
