@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Colores del tema principal de la aplicación -->
+    <color name="colorPrimary">#A4C639</color> <!-- Verde lima un poco más oscuro -->
+    <color name="colorPrimaryDark">#8FA528</color> <!-- Verde lima oscuro -->
+    <color name="colorAccent">#A4C639</color> <!-- Verde lima ligeramente más oscuro -->
+
+    <!-- Colores personalizados adicionales -->
+    <color name="backgroundColor">#F0F0F0</color> <!-- Fondo gris claro -->
+    <color name="buttonColor">#A4C639</color> <!-- Verde lima para botones -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- Blanco para el texto del botón -->
+    <color name="textPrimary">#000000</color> <!-- Texto negro -->
+    <color name="textSecondary">#808080</color> <!-- Texto gris -->
 </resources>

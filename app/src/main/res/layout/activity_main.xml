@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
     tools:context=".MainActivity">
 
     <!-- RecyclerView para mostrar la lista de cursos -->
@@ -16,12 +17,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_margin="16dp" />
 
-    <!-- Botón de iniciar sesión -->
+    <!-- Botón de iniciar sesión con colores personalizados -->
     <Button
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Iniciar Sesión"
+        android:backgroundTint="@color/buttonColor"
+        android:textColor="@color/buttonTextColor"
         app:layout_constraintTop_toBottomOf="@id/recyclerView"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
